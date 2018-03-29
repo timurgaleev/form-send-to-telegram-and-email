@@ -6,7 +6,7 @@
 /***************************************************************************
  *                              Settings                                  *
  ***************************************************************************/
-const NOTIFICATIONS_EMAIL = "info@timzu.com";
+const NOTIFICATIONS_EMAIL = "";
 const TELEGRAM_TOKEN = "573038591:AAEnIruKocx12Tasy2e3xbM-Y2KGQlBHZ84";
 const TELEGRAM_CHAT_ID = "-308756269";
 /***************************************************************************
